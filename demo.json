@@ -1,0 +1,302 @@
+{
+  "version": 1,
+  "width": 79,
+  "height": 39,
+  "duration": 26.84353,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.273009,
+      "{\u001b[0;31mREC\u001b[0m}markeganfuller[0\u001b[0m]:~\u001b[0;31m$\u001b[0m "
+    ],
+    [
+      1.000553,
+      "s"
+    ],
+    [
+      0.144939,
+      "s"
+    ],
+    [
+      0.086084,
+      "h"
+    ],
+    [
+      0.099071,
+      " "
+    ],
+    [
+      0.313066,
+      "l"
+    ],
+    [
+      0.183865,
+      "o"
+    ],
+    [
+      0.141915,
+      "g"
+    ],
+    [
+      0.059089,
+      "i"
+    ],
+    [
+      0.055911,
+      "n"
+    ],
+    [
+      0.401072,
+      "."
+    ],
+    [
+      0.161481,
+      "hpc.qmul.ac.uk "
+    ],
+    [
+      0.840603,
+      "\r\n"
+    ],
+    [
+      0.34516,
+      "\u001b]0;aaw702@frontend8:~\u0007\u001b[?1034h[aaw702@frontend8.apocrita ~]$ "
+    ],
+    [
+      2.390936,
+      "n"
+    ],
+    [
+      0.108019,
+      "o"
+    ],
+    [
+      0.068992,
+      "d"
+    ],
+    [
+      0.100092,
+      "e"
+    ],
+    [
+      0.084893,
+      "s"
+    ],
+    [
+      0.197083,
+      "t"
+    ],
+    [
+      0.155017,
+      "a"
+    ],
+    [
+      0.180864,
+      "t"
+    ],
+    [
+      0.098205,
+      "u"
+    ],
+    [
+      0.108772,
+      "s"
+    ],
+    [
+      0.612018,
+      "\r\n"
+    ],
+    [
+      1.171155,
+      "\r\nNode\t\tcores\t\tfree\t\tavailable\r\n\t\tused/total\tmem\t\tmem\r\n\r\n"
+    ],
+    [
+      0.00412,
+      "\u001b[1;34mccn1\t\t(48/48)\t\t59\t\t0\u001b[0m\r\n\u001b[1;34mccn2\t\t(48/48)\t\t54\t\t0\u001b[0m\r\n\u001b[1;34mccn3\t\t(48/48)\t\t21\t\t0\u001b[0m\r\n\u001b[1;32m\u001b[1;34mccn4\t\t(0/48)\t\t61\t\t64\u001b[0m\r\n\u001b[1;34mccn5\t\t(48/48)\t\t54\t\t0\u001b[0m\r\n\u001b[1;34mccn6\t\t(48/48)\t\t59\t\t0\u001b[0m\r\n\u001b[1;34mccn7\t\t(48/48)\t\t58\t\t0\u001b[0m\r\n\u001b[1;32m\u001b[1;34mccn8\t\t(0/48)\t\t61\t\t64\u001b[0m\r\n\u001b[1;34mccn9\t\t(48/48)\t\t59\t\t0\u001b[0m\r\n\u001b[1;34mccn10\t\t(48/48)\t\t58\t\t0\u001b[0m\r\n\u001b[1;34mccn11\t\t(48/48)\t\t54\t\t0\u001b[0m\r\n\u001b[1;34mccn13\t\t(48/48)\t\t54\t\t0\u001b[0m\r\n\u001b[1;34mccn14\t\t(48/48)\t\t59\t\t0\u001b[0m\r\n\u001b[1;34mccn15\t\t(48/48)\t\t21\t\t0\u001b[0m\r\ndn1\t\t(12/12)\t\t17\t\t0\r\ndn2\t\t(12/12)\t\t9\t\t0\r\ndn3\t\t(8/12)\t\t16\t\t0\r\ndn4\t\t(12/12)\t\t16\t\t0\r\ndn5\t\t(10/12)\t\t20\t\t0\r\ndn6\t\t(12/12)\t\t13\t\t0\r\ndn7\t\t(11/12)\t\t12\t\t0\r\ndn8\t\t(11/12)\t\t16\t\t0\r\ndn9\t\t(12/12)\t\t8\t\t0\r\ndn10\t\t(10/12)\t\t21\t\t0\r\ndn11\t\t(10/12)\t\t20\t\t0\r\ndn12\t\t(12/12)\t\t12\t\t1\r\ndn13\t\t(11/12)\t\t10\t\t0\r\ndn14\t\t(12/12)\t\t18\t\t0\r\ndn15\t\t(12/12)\t\t17\t\t0\r\ndn16\t\t(11/12)\t\t13\t\t0\r\ndn17\t\t(10/12)\t\t20\t\t0\r\ndn18\t\t(12/12)\t\t13\t\t0\r\ndn19\t\t(10/12)\t\t20\t\t0\r\ndn20\t\t(10/12)\t\t17\t\t0\r\ndn21\t\t(12/12)\t\t19\t\t0\r\ndn22\t\t(12/12)\t\t17\t\t0\r\ndn23\t\t(12/12)\t\t15\t\t1\r\ndn24\t\t(10/12)\t\t12\t\t0\r\ndn25\t\t(7/12)\t\t12\t\t0\r\ndn26\t\t"
+    ],
+    [
+      1.7e-05,
+      "(11/12)\t\t16\t\t0\r\ndn27\t\t(7/12)\t\t12\t\t0\r\ndn28\t\t(12/12)\t\t17\t\t0\r\ndn29\t\t(12/12)\t\t9\t\t0\r\ndn30\t\t(12/12)\t\t17\t\t6\r\ndn31\t\t(11/12)\t\t12\t\t0\r\ndn32\t\t(12/12)\t\t20\t\t0\r\ndn33\t\t(12/12)\t\t15\t\t1\r\ndn34\t\t(12/12)\t\t17\t\t0\r\ndn35\t\t(12/12)\t\t12\t\t0\r\ndn36\t\t(10/12)\t\t13\t\t0\r\ndn37\t\t(12/12)\t\t17\t\t0\r\ndn38\t\t(10/12)\t\t17\t\t0\r\ndn39\t\t(8/12)\t\t16\t\t0\r\ndn40\t\t(12/12)\t\t21\t\t0\r\ndn41\t\t(12/12)\t\t20\t\t2\r\ndn42\t\t(9/12)\t\t19\t\t0\r\ndn43\t\t(11/12)\t\t13\t\t0\r\ndn44\t\t(12/12)\t\t13\t\t1\r\ndn45\t\t(11/12)\t\t17\t\t0\r\ndn46\t\t(12/12)\t\t18\t\t6\r\ndn47\t\t(12/12)\t\t9\t\t0\r\ndn48\t\t(10/12)\t\t19\t\t0\r\ndn49\t\t(12/12)\t\t21\t\t0\r\ndn50\t\t(11/12)\t\t13\t\t0\r\ndn51\t\t(11/12)\t\t15\t\t0\r\ndn52\t\t(10/12)\t\t12\t\t0\r\ndn53\t\t(11/12)\t\t20\t\t0\r\ndn54\t\t(7/12)\t\t16\t\t0\r\ndn55\t\t(12/12)\t\t19\t\t0\r\ndn56\t\t(8/12)\t\t16\t\t0\r\ndn57\t\t(12/12)\t\t15\t\t0\r\ndn58\t\t(12/12)\t\t20\t\t0\r\ndn59\t\t(12/12)\t\t20\t\t0\r\ndn60\t\t(12/12)\t\t21\t\t2\r\ndn61\t\t(8/12)\t\t16\t\t0\r\ndn62\t\t(11/12)\t\t16\t\t0\r\ndn63\t\t(12/12)\t\t15\t\t0\r\ndn64\t\t(8/12)\t\t12\t\t0\r\ndn65\t\t(11/12)\t\t21\t\t0\r\ndn66\t\t(12/12)\t\t19\t\t0\r\ndn67\t\t(10/12)\t\t8\t\t0\r\ndn68\t\t(12/12)\t\t12\t\t0\r\ndn69\t\t(12/12)\t\t20\t\t1\r\ndn70\t\t(11/12)\t\t16\t\t0\r\ndn71\t\t(12/12)\t\t9\t\t0\r\ndn72\t\t(11/12)\t\t17\t\t0\r\ndn73\t\t("
+    ],
+    [
+      9e-06,
+      "12/12)\t\t19\t\t0\r\ndn74\t\t(12/12)\t\t20\t\t0\r\ndn75\t\t(12/12)\t\t19\t\t0\r\ndn76\t\t(12/12)\t\t21\t\t1\r\ndn77\t\t(11/12)\t\t15\t\t0\r\ndn78\t\t(12/12)\t\t22\t\t12\r\ndn79\t\t(11/12)\t\t13\t\t0\r\ndn80\t\t(11/12)\t\t13\t\t0\r\ndn81\t\t(9/12)\t\t20\t\t0\r\ndn82\t\t(10/12)\t\t21\t\t0\r\ndn83\t\t(11/12)\t\t13\t\t0\r\ndn84\t\t(9/12)\t\t20\t\t0\r\ndn85\t\t(9/12)\t\t17\t\t0\r\ndn86\t\t(12/12)\t\t20\t\t0\r\ndn87\t\t(10/12)\t\t17\t\t0\r\ndn88\t\t(9/12)\t\t16\t\t0\r\ndn89\t\t(8/12)\t\t13\t\t0\r\ndn90\t\t(9/12)\t\t12\t\t0\r\ndn91\t\t(12/12)\t\t17\t\t0\r\ndn92\t\t(12/12)\t\t14\t\t0\r\ndn93\t\t(12/12)\t\t15\t\t0\r\ndn94\t\t(12/12)\t\t20\t\t0\r\ndn95\t\t(9/12)\t\t20\t\t0\r\ndn96\t\t(11/12)\t\t11\t\t0\r\ndn97\t\t(12/12)\t\t17\t\t2\r\ndn98\t\t(12/12)\t\t19\t\t0\r\ndn99\t\t(11/12)\t\t20\t\t0\r\ndn100\t\t(12/12)\t\t16\t\t0\r\ndn101\t\t(12/12)\t\t20\t\t1\r\ndn102\t\t(10/12)\t\t17\t\t0\r\ndn103\t\t(9/12)\t\t20\t\t0\r\ndn104\t\t(10/12)\t\t15\t\t0\r\ndn105\t\t(9/12)\t\t19\t\t0\r\ndn106\t\t(12/12)\t\t20\t\t0\r\ndn107\t\t(12/12)\t\t16\t\t0\r\ndn108\t\t(12/12)\t\t9\t\t0\r\ndn109\t\t(12/12)\t\t9\t\t0\r\ndn110\t\t(12/12)\t\t20\t\t0\r\ndn111\t\t(12/12)\t\t9\t\t0\r\ndn112\t\t(12/12)\t\t20\t\t0\r\ndn113\t\t(12/12)\t\t21\t\t1\r\ndn114\t\t(9/12)\t\t19\t\t0\r\ndn115\t\t(11/12)\t\t15\t\t0\r\ndn116\t\t(12/12)\t\t19\t\t0\r\ndn117\t\t(10/12)\t\t17\t\t0\r\ndn118\t\t(12/12)\t\t17\t\t2\r\ndn119\t\t(6/12"
+    ],
+    [
+      8e-06,
+      ")\t\t9\t\t0\r\ndn120\t\t(12/12)\t\t21\t\t3\r\ndn121\t\t(12/12)\t\t21\t\t6\r\ndn122\t\t(12/12)\t\t21\t\t0\r\ndn123\t\t(9/12)\t\t21\t\t0\r\ndn124\t\t(12/12)\t\t21\t\t0\r\ndn125\t\t(10/12)\t\t13\t\t0\r\ndn126\t\t(12/12)\t\t16\t\t0\r\ndn127\t\t(8/12)\t\t16\t\t0\r\ndn128\t\t(12/12)\t\t9\t\t0\r\ndn129\t\t(10/12)\t\t13\t\t0\r\ndn130\t\t(10/12)\t\t17\t\t0\r\ndn131\t\t(12/12)\t\t21\t\t0\r\ndn132\t\t(9/12)\t\t20\t\t0\r\ndn133\t\t(12/12)\t\t17\t\t0\r\ndn134\t\t(7/12)\t\t16\t\t0\r\ndn135\t\t(10/12)\t\t20\t\t0\r\ndn136\t\t(12/12)\t\t18\t\t6\r\ndn137\t\t(12/12)\t\t20\t\t0\r\ndn138\t\t(10/12)\t\t12\t\t0\r\ndn139\t\t(12/12)\t\t17\t\t0\r\ndn140\t\t(12/12)\t\t19\t\t0\r\ndn141\t\t(10/12)\t\t20\t\t0\r\ndn142\t\t(12/12)\t\t19\t\t0\r\ndn143\t\t(10/12)\t\t18\t\t0\r\ndn144\t\t(10/12)\t\t9\t\t0\r\ndn145\t\t(7/12)\t\t16\t\t0\r\ndn146\t\t(12/12)\t\t21\t\t0\r\ndn147\t\t(12/12)\t\t20\t\t1\r\n\u001b[1;32m\u001b[1;34mfrontend7\t(0/40)\t\t248\t\t252\u001b[0m\r\n\u001b[1;34mnxn1\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;34mnxn2\t\t(16/16)\t\t53\t\t0\u001b[0m\r\n\u001b[1;34mnxn3\t\t(16/16)\t\t53\t\t0\u001b[0m\r\n\u001b[1;34mnxn4\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;34mnxn5\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;32m\u001b[1;34mnxn6\t\t(0/16)\t\t61\t\t64\u001b[0m\r\n"
+    ],
+    [
+      0.00203,
+      "\u001b[1;32m\u001b[1;34mnxn7\t\t(0/16)\t\t61\t\t64\u001b[0m\r\n\u001b[1;32m\u001b[1;34mnxn8\t\t(0/16)\t\t61\t\t64\u001b[0m\r\n\u001b[1;32m\u001b[1;34mnxn9\t\t(0/16)\t\t61\t\t64\u001b[0m\r\n\u001b[1;32m\u001b[1;34mnxn10\t\t(0/16)\t\t61\t\t64\u001b[0m\r\n\u001b[1;32m\u001b[1;34mnxn11\t\t(0/16)\t\t61\t\t64\u001b[0m\r\n\u001b[1;34mnxn12\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;34mnxn13\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;34mnxn14\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;32m\u001b[1;34mnxn15\t\t(0/16)\t\t61\t\t64\u001b[0m\r\n\u001b[1;34mnxn16\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;34mnxn17\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;32m\u001b[1;34mnxn18\t\t(0/16)\t\t61\t\t64\u001b[0m\r\n\u001b[1;34mnxn19\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;34mnxn20\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;32m\u001b[1;34mnxn21\t\t(0/16)\t\t61\t\t64\u001b[0m\r\n\u001b[1;32m\u001b[1;34mnxn22\t\t(0/16)\t\t61\t\t64\u001b[0m\r\n\u001b[1;34mnxn23\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;34mnxn24\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;34mnxn25\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;32m\u001b[1;34mnxn26\t\t(0/16)\t\t61\t\t64\u001b[0m\r\n\u001b[1;34mnxn27\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;34mnxn28\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;34mnxn29\t\t(16/16)\t\t60\t\t4\u001b[0m\r\n\u001b[1;32m\u001b[1;34mnxn30\t\t(0/16)\t\t61\t\t64\u001b[0m\r\n\u001b[1;32m\u001b[1;34mnxn31\t\t(0/16)\t\t61\t\t64\u001b[0m\r\n\u001b[1;36m\u001b[1;34mnxn32\t\t(12/24)\t\t163\t\t48\u001b[0m\r\n\u001b[1;36m\u001b[1;34mnxn33\t\t(10/24)\t\t144\t\t16\u001b[0m\r\n\u001b[1;36m"
+    ],
+    [
+      1.3e-05,
+      "\u001b[1;34mnxn34\t\t(12/24)\t\t165\t\t48\u001b[0m\r\n\u001b[1;32m\u001b[1;34mnxn35\t\t(0/24)\t\t185\t\t192\u001b[0m\r\n\u001b[1;36m\u001b[1;34mnxn36\t\t(18/24)\t\t183\t\t48\u001b[0m\r\n\u001b[1;36m\u001b[1;34mnxn37\t\t(10/24)\t\t163\t\t64\u001b[0m\r\n\u001b[1;36m\u001b[1;34mpanos1\t\t(3/32)\t\t453\t\t362\u001b[0m\r\n\u001b[1;33msm0\t\t(42/48)\t\t466\t\t207\talarm\tavg=1.256042, th=1.25\u001b[0m\r\n\u001b[1;33msm1\t\t(43/48)\t\t482\t\t244\talarm\tavg=1.649792, th=1.25\u001b[0m\r\n\u001b[1;33msm2\t\t(36/48)\t\t430\t\t253\talarm\tavg=1.442917, th=1.25\u001b[0m\r\n\u001b[1;33msm3\t\t(32/48)\t\t483\t\t315\talarm\tavg=1.400833, th=1.25\u001b[0m\r\n\u001b[1;31msm4\t\t(0/48)\t\t500\t\t512\tdisabled\u001b[0m\r\n\u001b[1;33msm5\t\t(27/48)\t\t478\t\t335\talarm\tavg=1.306875, th=1.25\u001b[0m\r\nsm6\t\t(48/48)\t\t464\t\t306\r\n\u001b[1;33msm7\t\t(35/48)\t\t480\t\t313\talarm\tavg=1.415417, th=1.25\u001b[0m\r\nsm8\t\t(48/48)\t\t471\t\t315\r\n\u001b[1;33msm9\t\t(33/48)\t\t465\t\t222\talarm\tavg=1.677708, th=1.25\u001b[0m\r\n\u001b[1;33msm10\t\t(31/48)\t\t475\t\t233\talarm\tavg=1.523125, th=1.25\u001b[0m\r\n\r\n\r\n\r\nKey:\t\u001b[1;32mFree nodes (0), \u001b[1;36mFree cores (0 dn=0 sm=0), \u001b[1;34mReserved, \u001b[1;33mAlarm/Disabled (8), \u001b[1;31mDisabled/Unavailable (1)\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.004577,
+      "\u001b]0;aaw702@frontend8:~\u0007[aaw702@frontend8.apocrita ~]$ "
+    ],
+    [
+      4.414373,
+      "m"
+    ],
+    [
+      0.137811,
+      "o"
+    ],
+    [
+      0.129023,
+      "d"
+    ],
+    [
+      0.119932,
+      "u"
+    ],
+    [
+      0.109044,
+      "l"
+    ],
+    [
+      0.06092,
+      "e"
+    ],
+    [
+      0.09607,
+      " "
+    ],
+    [
+      0.146914,
+      "l"
+    ],
+    [
+      0.183076,
+      "o"
+    ],
+    [
+      0.071976,
+      "a"
+    ],
+    [
+      0.084897,
+      "d"
+    ],
+    [
+      0.103157,
+      " "
+    ],
+    [
+      0.246902,
+      "h"
+    ],
+    [
+      0.115154,
+      "t"
+    ],
+    [
+      0.108919,
+      "o"
+    ],
+    [
+      0.054909,
+      "p"
+    ],
+    [
+      0.758883,
+      "\r\n"
+    ],
+    [
+      0.030313,
+      "\u001b]0;aaw702@frontend8:~\u0007[aaw702@frontend8.apocrita ~]$ "
+    ],
+    [
+      0.741797,
+      "h"
+    ],
+    [
+      0.070122,
+      "t"
+    ],
+    [
+      0.31193,
+      "o"
+    ],
+    [
+      0.056039,
+      "p"
+    ],
+    [
+      0.334926,
+      "\r\n"
+    ],
+    [
+      0.004123,
+      "\u001b[?1049h\u001b[1;39r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b=\u001b[?25l\u001b[39;49m\u001b[?1000h"
+    ],
+    [
+      0.314618,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[2d  \u001b[36m1  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   4.5%\u001b[39m]\u001b(B\u001b[m    \u001b[36m13 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   5.4%\u001b[39m]\u001b(B\u001b[m     \u001b[36m25 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.5%\u001b[39m]\u001b(B\u001b[m    \u001b[36m37 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.8%\u001b[39m]\u001b[3;3H\u001b(B\u001b[0m\u001b[36m2  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   3.1%\u001b[39m]\u001b(B\u001b[m    \u001b[36m14 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   3.2%\u001b[39m]\u001b(B\u001b[m     \u001b[36m26 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   3.4%\u001b[39m]\u001b(B\u001b[m    \u001b[36m38 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   3.6%\u001b[39m]\u001b[4;3H\u001b(B\u001b[0m\u001b[36m3  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.5%\u001b[39m]\u001b(B\u001b[m    \u001b[36m15 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.4%\u001b[39m]\u001b(B\u001b[m     \u001b[36m27 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.5%\u001b[39m]\u001b(B\u001b[m    \u001b[36m39 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b["
+    ],
+    [
+      2.3e-05,
+      "0;1m\u001b[30m   1.5%\u001b[39m]\u001b[5;3H\u001b(B\u001b[0m\u001b[36m4  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.1%\u001b[39m]\u001b(B\u001b[m    \u001b[36m16 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.3%\u001b[39m]\u001b(B\u001b[m     \u001b[36m28 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.1%\u001b[39m]\u001b(B\u001b[m    \u001b[36m40 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.9%\u001b[39m]\u001b[6;3H\u001b(B\u001b[0m\u001b[36m5  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.1%\u001b[39m]\u001b(B\u001b[m    \u001b[36m17 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.8%\u001b[39m]\u001b(B\u001b[m     \u001b[36m29 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.1%\u001b[39m]\u001b(B\u001b[m    \u001b[36m41 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.0%\u001b[39m]\u001b[7;3H\u001b(B\u001b[0m\u001b[36m6  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.9%\u001b[39m]\u001b(B\u001b[m    \u001b[36m18 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.7%\u001b[39m]\u001b(B\u001b[m     \u001b[36m30 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.8%\u001b[39m]\u001b(B\u001b[m    \u001b[36m42 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[3"
+    ],
+    [
+      1.5e-05,
+      "1m|\u001b(B\u001b[0;1m\u001b[30m   0.7%\u001b[39m]\u001b[8;3H\u001b(B\u001b[0m\u001b[36m7  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.6%\u001b[39m]\u001b(B\u001b[m    \u001b[36m19 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.8%\u001b[39m]\u001b(B\u001b[m     \u001b[36m31 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.7%\u001b[39m]\u001b(B\u001b[m    \u001b[36m43 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.2%\u001b[39m]\u001b[9;3H\u001b(B\u001b[0m\u001b[36m8  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.6%\u001b[39m]\u001b(B\u001b[m    \u001b[36m20 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.7%\u001b[39m]\u001b(B\u001b[m     \u001b[36m32 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.7%\u001b[39m]\u001b(B\u001b[m    \u001b[36m44 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   1.5%\u001b[39m]\u001b[10;3H\u001b(B\u001b[0m\u001b[36m9  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.7%\u001b[39m]\u001b(B\u001b[m    \u001b[36m21 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.8%\u001b[39m]\u001b(B\u001b[m     \u001b[36m33 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.8%\u001b[39m]\u001b(B\u001b[m    \u001b[36m45 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|"
+    ],
+    [
+      1.1e-05,
+      "\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.0%\u001b[39m]\u001b[11;3H\u001b(B\u001b[0m\u001b[36m10 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.6%\u001b[39m]\u001b(B\u001b[m    \u001b[36m22 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.7%\u001b[39m]\u001b(B\u001b[m     \u001b[36m34 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.5%\u001b[39m]\u001b(B\u001b[m    \u001b[36m46 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.0%\u001b[39m]\u001b[12;3H\u001b(B\u001b[0m\u001b[36m11 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.6%\u001b[39m]\u001b(B\u001b[m    \u001b[36m23 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.7%\u001b[39m]\u001b(B\u001b[m     \u001b[36m35 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.6%\u001b[39m]\u001b(B\u001b[m    \u001b[36m47 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m    0.0%\u001b[39m]\u001b[13;3H\u001b(B\u001b[0m\u001b[36m12 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.5%\u001b[39m]\u001b(B\u001b[m    \u001b[36m24 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.8%\u001b[39m]\u001b(B\u001b[m     \u001b[36m36 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m   0.5%\u001b[39m]\u001b(B\u001b[m    \u001b[36m48 \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m"
+    ],
+    [
+      1.1e-05,
+      "\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m    0.0%\u001b[39m]\u001b[14;3H\u001b(B\u001b[0m\u001b[36mMem\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||||\u001b[34m|\u001b[33m||\u001b(B\u001b[0;1m\u001b[30m       21056/128354MB\u001b[39m]\u001b(B\u001b[m     \u001b[36mTasks: \u001b(B\u001b[0;1m\u001b[36m712\u001b(B\u001b[0m\u001b[36m, \u001b(B\u001b[0;1m\u001b[36m984\u001b(B\u001b[0m\u001b[36m thr; \u001b(B\u001b[0;1m\u001b[32m3\u001b(B\u001b[0m\u001b[36m running\u001b[15;3HSwp\u001b[39m\u001b(B\u001b[0;1m[\u001b[30m\u001b[20X\u001b[15;27H0/65535MB\u001b[39m]\u001b(B\u001b[m     \u001b[36mLoad average: \u001b(B\u001b[0;1m\u001b[30m2.95 \u001b[39m\u001b(B\u001b[m2.78 \u001b(B\u001b[0;1m2.46 \u001b[16;42H\u001b(B\u001b[0m\u001b[36mUptime: \u001b(B\u001b[0;1m\u001b[36m127 days(!), 01:13:53\r\u001b[18d\u001b(B\u001b[0m\u001b[30m\u001b[42m  PID USER      PRI  NI  VIRT   RES   SHR S CPU% MEM%   TIME+  Command\u001b[K\r\u001b[19d\u001b[30m\u001b[46m    1 root       20   0 23500  1636  1300 S  0.0  0.0  0:42.35 /sbin/init\u001b[K\r\u001b[20d\u001b[39;49m\u001b(B\u001b[m47636 \u001b(B\u001b[0;1m\u001b[30maaw807    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 9\u001b[39m\u001b(B\u001b[m332   628   332 S  0.0  0.0  0:00.00 \u001b[36m`- \u001b[39m\u001b(B\u001b[m/bin/bash ./n\u001b[21;1H47637 \u001b(B\u001b[0;1m\u001b[30maaw807    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m79\u001b[39m\u001b(B\u001b[m012 \u001b[36m11\u001b[39m\u001b(B\u001b[m672 \u001b[36m 2\u001b[39m\u001b(B\u001b[m820 S  0.0  0.0  0:00.04 \u001b[36m|  `- \u001b[39m\u001b(B\u001b[mqhost -h d\u001b[22;1H47338 \u001b(B\u001b[0;1m\u001b[30mroot  "
+    ],
+    [
+      1e-05,
+      "    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m80\u001b[39m\u001b(B\u001b[m888 \u001b[36m 3\u001b[39m\u001b(B\u001b[m424 \u001b[36m 2\u001b[39m\u001b(B\u001b[m524 S  0.0  0.0  0:35.66 \u001b[36m`- \u001b[39m\u001b(B\u001b[m/usr/libexec/\u001b[23;1H47341 \u001b(B\u001b[0;1m\u001b[30mpostfix   \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m83\u001b[39m\u001b(B\u001b[m220 \u001b[36m 3\u001b[39m\u001b(B\u001b[m596 \u001b[36m 2\u001b[39m\u001b(B\u001b[m652 S  0.0  0.0  0:06.24 \u001b[36m|  `- \u001b[39m\u001b(B\u001b[mqmgr -l -t\u001b[24;1H29215 \u001b(B\u001b[0;1m\u001b[30mpostfix   \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m83\u001b[39m\u001b(B\u001b[m052 \u001b[36m 3\u001b[39m\u001b(B\u001b[m432 \u001b[36m 2\u001b[39m\u001b(B\u001b[m544 S  0.0  0.0  0:00.00 \u001b[36m|  `- \u001b[39m\u001b(B\u001b[mpickup -l\r\u001b[25d46815 \u001b(B\u001b[0;1m\u001b[30mbtw532    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 582M  454M \u001b[39m\u001b(B\u001b[m  924 S  0.0  0.4  0:00.73 \u001b[36m`- \u001b[39m\u001b(B\u001b[mSCREEN\r\u001b[26d46816 \u001b(B\u001b[0;1m\u001b[30mbtw532    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 142M  4\u001b[39m\u001b(B\u001b[m280 \u001b[36m 2\u001b[39m\u001b(B\u001b[m028 S  0.0  0.0  0:00.13 \u001b[36m|  `- \u001b[39m\u001b(B\u001b[m-/share/ap\u001b[27;1H46970 \u001b(B\u001b[0;1m\u001b[30mbtw532    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m72\u001b[39m\u001b(B\u001b[m196 \u001b[36m 3\u001b[39m\u001b(B\u001b[m836 \u001b[36m 2\u001b[39m\u001b(B\u001b[m976 S  0.0  0.0  0:00.17 \u001b[36m|  |  `- \u001b[39m\u001b(B\u001b[mssh sm1\u001b[28;2H1761 \u001b(B\u001b[0;1m\u001b[30mbtw532    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 142M"
+    ],
+    [
+      1.1e-05,
+      "  4\u001b[39m\u001b(B\u001b[m284 \u001b[36m 2\u001b[39m\u001b(B\u001b[m028 S  0.0  0.0  0:00.12 \u001b[36m|  `- \u001b[39m\u001b(B\u001b[m-/share/ap\u001b[29;2H1885 \u001b(B\u001b[0;1m\u001b[30mbtw532    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m72\u001b[39m\u001b(B\u001b[m328 \u001b[36m 3\u001b[39m\u001b(B\u001b[m852 \u001b[36m 2\u001b[39m\u001b(B\u001b[m976 S  0.0  0.0  0:00.01 \u001b[36m|     `- \u001b[39m\u001b(B\u001b[mssh sm1\u001b[30;1H45569 \u001b(B\u001b[0;1m\u001b[30mca14030   \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 118M  2\u001b[39m\u001b(B\u001b[m084 \u001b[36m 1\u001b[39m\u001b(B\u001b[m612 S  0.0  0.0  0:00.02 \u001b[36m`- \u001b[39m\u001b(B\u001b[m-bash\r\u001b[31d45279 \u001b(B\u001b[0;1m\u001b[30mexw824    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m10\u001b[39m\u001b(B\u001b[m132 \u001b[36m 2\u001b[39m\u001b(B\u001b[m272 \u001b[36m 1\u001b[39m\u001b(B\u001b[m152 S  0.0  0.0  0:00.04 \u001b[36m`- \u001b[39m\u001b(B\u001b[m/bin/sh /shar\u001b[32;1H45377 \u001b(B\u001b[0;1m\u001b[30mexw824    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 843M  370M 21\u001b[39m\u001b(B\u001b[m344 S  0.0  0.3 10:47.21 \u001b[36m|  `- \u001b[39m\u001b(B\u001b[m/share/app\u001b[33;1H45805 \u001b(B\u001b[0;1m\u001b[30mexw824    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 843M  370M 21\u001b[39m\u001b(B\u001b[m344 S  0.0  0.3  0:00.00 \u001b[36m|     `- \u001b[39m\u001b(B\u001b[m/share/\u001b[34;1H45522 \u001b(B\u001b[0;1m\u001b[30mexw824    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 843M  370M 21\u001b[39m\u001b(B\u001b[m344 S  0.0  0.3  0:00.00 \u001b[36m|     `- \u001b[39m\u001b(B\u001b[m/share/\u001b[3"
+    ],
+    [
+      1e-05,
+      "5;1H45521 \u001b(B\u001b[0;1m\u001b[30mexw824    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 843M  370M 21\u001b[39m\u001b(B\u001b[m344 S  0.0  0.3  0:00.00 \u001b[36m|     `- \u001b[39m\u001b(B\u001b[m/share/\u001b[36;1H45380 \u001b(B\u001b[0;1m\u001b[30mexw824    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 843M  370M 21\u001b[39m\u001b(B\u001b[m344 S  0.0  0.3  0:00.00 \u001b[36m|     `- \u001b[39m\u001b(B\u001b[m/share/\u001b[37;1H45379 \u001b(B\u001b[0;1m\u001b[30mexw824    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m 843M  370M 21\u001b[39m\u001b(B\u001b[m344 S  0.0  0.3  0:00.00 \u001b[36m|     `- \u001b[39m\u001b(B\u001b[m/share/\u001b[38;1H42951 \u001b(B\u001b[0;1m\u001b[30mmpx309    \u001b[39m\u001b(B\u001b[m 20   0 \u001b[36m37\u001b[39m\u001b(B\u001b[m284 \u001b[36m 2\u001b[39m\u001b(B\u001b[m620   896 S  0.0  0.0  0:06.83 \u001b[36m`- \u001b[39m\u001b(B\u001b[mSCREEN -S lau\u001b[39;1HF1\u001b[30m\u001b[46mHelp  \u001b[39;49m\u001b(B\u001b[mF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b(B\u001b[mF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b(B\u001b[mF4\u001b[30m\u001b[46mFilter\u001b[39;49m\u001b(B\u001b[mF5\u001b[30m\u001b[46mSorted\u001b[39;49m\u001b(B\u001b[mF6\u001b[30m\u001b[46mCollap\u001b[39;49m\u001b(B\u001b[mF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b(B\u001b[mF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b(B\u001b[mF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b(B\u001b[mF10\u001b[30m\u001b[46mQui\u001b[?7lt\u001b[?7h\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.212482,
+      "\u001b[2;7H\u001b[32m||||100.0%\u001b[2;26H|\u001b[31m||||\u001b(B\u001b[0;1m\u001b[30m47.8\u001b[2;46H      0.0\u001b[2;65H      0.0\u001b[3;7H      0.0\u001b[3;26H\u001b(B\u001b[0m\u001b[32m|||\u001b(B\u001b[0;1m\u001b[30m  20.8\u001b[3;46H      0.0\u001b[3;65H      0.0\u001b[4;7H      0.0\u001b[4;26H      0.0\u001b[4;46H      0.0\u001b[4;65H      0.0\u001b[5;7H      0.0\u001b[5;26H      0.0\u001b[5;46H      0.0\u001b[5;65H      0.0\u001b[6;7H      0.0\u001b[6;26H      0.0\u001b[6;46H      0.0\u001b[6;65H\u001b(B\u001b[0m\u001b[32m|\u001b(B\u001b[0;1m\u001b[30m     8.7\u001b[7;7H      0.0\u001b[7;26H      0.0\u001b[7;46H      0.0\u001b[7;65H      0.0\u001b[8;7H      0.0\u001b[8;26H      0.0\u001b[8;46H      0.0\u001b[8;65H      0.0\u001b[9;7H      0.0\u001b[9;26H      0.0\u001b[9;46H      0.0\u001b[9;65H      0.0\u001b[10;7H      0.0\u001b[10;26H      0.0\u001b[10;46H      0.0\u001b[10;65H   \u001b[11;7H      0.0\u001b[11;26H\u001b(B\u001b[0m\u001b[32m||||100.0%\u001b[11;46H\u001b(B\u001b[0;1m\u001b[30m      0.0\u001b[11;65H   \u001b[12;7H      0.0\u001b[12;26H      0.0\u001b[12;46H      0.0\u001b[12;65H  \u001b[13;7H      0.0\u001b[13;26H      0.0\u001b[13;46H      0.0\u001b[13;65H  \u001b[14;25H65\u001b[16;70H\u001b[36m5\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      2.219924,
+      "\u001b[2;11H\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m32.6%\u001b[2;28H    5.9\u001b[2;65H\u001b(B\u001b[0m\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m    1.8\u001b[3;7H\u001b(B\u001b[0m\u001b[31m|\u001b[15G\u001b(B\u001b[0;1m\u001b[30m9\u001b[3;27H\u001b(B\u001b[0m\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m    3.2\u001b[3;46H\u001b(B\u001b[0m\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m    2.2\u001b[3;65H\u001b(B\u001b[0m\u001b[31m|\t\u001b(B\u001b[0;1m\u001b[30m5\u001b[4;65H\u001b(B\u001b[0m\u001b[31m|\t\u001b(B\u001b[0;1m\u001b[30m5\u001b[5;7H\u001b(B\u001b[0m\u001b[32m|\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m    1.8\u001b[5;26H\u001b(B\u001b[0m\u001b[32m|\u001b(B\u001b[0;1m\u001b[30m     1.8\u001b[5;46H\u001b(B\u001b[0m\u001b[32m|||\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m 24\u001b[6;26H\u001b(B\u001b[0m\u001b[32m|\t\u001b[C\u001b(B\u001b[0;1m\u001b[30m5\u001b[6;65H      0.0\u001b[7;46H\u001b(B\u001b[0m\u001b[31m|\u001b[54G\u001b(B\u001b[0;1m\u001b[30m5\u001b[9;46H\u001b(B\u001b[0m\u001b[32m||||\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m39.4\u001b[10;65H\u001b(B\u001b[0m\u001b[31m|\t\u001b(B\u001b[0;1m\u001b[30m5\u001b[13;26H\u001b(B\u001b[0m\u001b[31m|\t\u001b[C\u001b(B\u001b[0;1m\u001b[30m4\u001b[13;46H\u001b(B\u001b[0m\u001b[32m|\u001b[54G\u001b(B\u001b[0;1m\u001b[30m5\u001b[14;25H18\u001b[14;51H\u001b[36m0\u001b[16;70H7\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      2.227181,
+      "\u001b[2;7H\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m     0.5\u001b[2;34H4\u001b[2;65H      0.0\u001b[3;7H \u001b[15G0\u001b[3;27H     0.5\u001b[3;47H\u001b(B\u001b[0m\u001b[32m||||83.\u001b[31m2\u001b[3;65H\u001b[32m|\u001b[4;7H|\u001b[15G\u001b(B\u001b[0;1m\u001b[30m5\u001b[4;26H\u001b(B\u001b[0m\u001b[31m|\t\u001b[C\u001b(B\u001b[0;1m\u001b[30m5\u001b[4;46H\u001b(B\u001b[0m\u001b[31m|\u001b[54G\u001b(B\u001b[0;1m\u001b[30m5\u001b[4;65H \t0\u001b[5;7H\u001b(B\u001b[0m\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m     0.5\u001b[5;48H\u001b(B\u001b[0m\u001b[31m|\u001b(B\u001b[0;1m\u001b[30m  16.7\u001b[5;65H\u001b(B\u001b[0m\u001b[32m|\u001b[31m|\t\u001b(B\u001b[0;1m\u001b[30m9\u001b[6;26H \t.0\u001b[6;46H\u001b(B\u001b[0m\u001b[31m|\u001b[54G\u001b(B\u001b[0;1m\u001b[30m9\u001b[7;7H\u001b(B\u001b[0m\u001b[32m|\u001b[15G\u001b(B\u001b[0;1m\u001b[30m5\u001b[7;46H \u001b[54G0\u001b[8;46H\u001b(B\u001b[0m\u001b[32m|\u001b[54G\u001b(B\u001b[0;1m\u001b[30m9\u001b[9;46H      0.0\u001b[10;65H \t0\u001b[13;26H \t.0\u001b[13;46H\u001b(B\u001b[0m\u001b[31m|\u001b[14;25H\u001b(B\u001b[0;1m\u001b[30m39\u001b[14;63H\u001b[32m4\u001b[16;70H\u001b[36m9\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.329701,
+      "\u001b[39d\u001b[J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[39;1H\u001b[?1049l\r\u001b[?1l\u001b>"
+    ],
+    [
+      0.002175,
+      "\u001b]0;aaw702@frontend8:~\u0007[aaw702@frontend8.apocrita ~]$ "
+    ],
+    [
+      0.635682,
+      "logout\r\nConnection to login.hpc.qmul.ac.uk closed.\r\r\n"
+    ],
+    [
+      0.017456,
+      "{\u001b[0;31mREC\u001b[0m}markeganfuller[0\u001b[0m]:~\u001b[0;31m$\u001b[0m "
+    ]
+  ]
+}
